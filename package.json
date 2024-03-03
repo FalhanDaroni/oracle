@@ -9,6 +9,9 @@
     "mina-zk-app",
     "mina-dapp",
     "zkapp"
+    "author": "Ronni",
+  "repository": {
+    "url": "https://github.com/falhandaroni/oracle"
   ],
   "type": "module",
   "main": "build/src/index.js",
